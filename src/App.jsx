@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
+import Skills from "./components/Skills";
 import Footer from "./components/Footer";
 import bgImage from "./assets/bg.jpg";
 
@@ -18,6 +19,7 @@ function App() {
         <Navbar />
         <Hero />
         <About />
+        <Skills />
         <Footer />
       </div>
     </main>

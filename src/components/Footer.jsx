@@ -8,11 +8,11 @@ function Footer() {
           <h3 className="font-['Outfit'] text-lg font-semibold text-[#F3EDEE]">
             Zannatul Naima Prome
           </h3>
-          {/*
+          
           <p className="mt-1 text-sm text-[#9F8B92]">
             Built with React and Tailwind CSS
           </p>
-          */}
+          
         </div>
 
         {/* Right */}
